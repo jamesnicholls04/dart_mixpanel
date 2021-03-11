@@ -9,7 +9,7 @@ version: 0.0.4
 dependencies:
     flutter:
         sdk: flutter
-    uuid: ^3.0.0
+    uuid: ^2.0.0
     shared_preferences: ^2.0.4
     package_info: '>=0.4.0 <2.0.0'
     device_info: ^0.4.0
